@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Name
+Comment=Comment
+GenericName=GenericName
+Exec=cf.cyberpop.test %U
+Icon=cf.cyberpop.test
+Terminal=false
+Categories=Utility;GTK;Development;
+Keywords=Develop
